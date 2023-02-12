@@ -40,6 +40,8 @@ This is a solution to the [Art gallery website challenge on Frontend Mentor](htt
  I learned how to make my site responsive. This is my first responsive website that works properly.
 
  here i add code snippets, see below:
+ 
+ 
  .lear-of-this-css { 
   footer svg:nth-of-type(2) {
     margin: 38px 20px 0 20px;
