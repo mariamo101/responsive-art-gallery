@@ -47,6 +47,6 @@ This is a solution to the [Art gallery website challenge on Frontend Mentor](htt
  I learned how to make my site responsive. This is my first responsive website that works properly.
 
 ## Author
-
-- Website - [Mariami Makhniashvili]( <link href="https://fantastic-liger-ba6802.netlify.app/" >)
-
+.css{
+  [Mariami Makhniashvili](<link href="https://fantastic-liger-ba6802.netlify.app/" >)
+}
