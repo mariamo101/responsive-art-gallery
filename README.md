@@ -48,6 +48,5 @@ This is a solution to the [Art gallery website challenge on Frontend Mentor](htt
 
 ## Author
 
-Mariami Makhniashvili
-
+- Website - [Mariami Makhniashvili]( <link href="https://fantastic-liger-ba6802.netlify.app/" >)
 
