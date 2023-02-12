@@ -1,7 +1,3 @@
-# responsive-art-gallery
-This is my first responsive website that works properly.
-
-
 # Frontend Mentor - Art gallery website solution
 
 This is a solution to the [Art gallery website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/art-gallery-website-yVdrZlxyA). Frontend Mentor challenges help me improve my coding skills by building realistic projects. 
@@ -17,7 +13,6 @@ This is a solution to the [Art gallery website challenge on Frontend Mentor](htt
 - [Author](#author)
 ## Overview
   I'm trying to build this site by figma com. In the process of working I had challenges that I overcame and learned something new.
-
 ### The challenge
  The challenge was to make the letters have two colors at the same time.
 
@@ -28,11 +23,9 @@ This is a solution to the [Art gallery website challenge on Frontend Mentor](htt
 
   <img width="775" alt="Screenshot 2023-02-12 at 02 15 39" src="https://user-images.githubusercontent.com/117212859/218287956-6fffc789-74b7-4d40-80a5-bb4a8cbca55b.png">
 
-  
+
 ## My process
  My process is going slowly but fruitfully. I gain new experience in the process of solving problems.
- 
- <link href="https://fantastic-liger-ba6802.netlify.app/" >
 
 ### Built with
 
@@ -46,7 +39,18 @@ This is a solution to the [Art gallery website challenge on Frontend Mentor](htt
  
  I learned how to make my site responsive. This is my first responsive website that works properly.
 
+ here i add code snippets, see below:
+ .lear-of-this-css { 
+  footer svg:nth-of-type(2) {
+    margin: 38px 20px 0 20px;
+  }
+  footer img:nth-of-type(1) {
+    margin-bottom: 38px;
+    }
+  }
+
 ## Author
-.css{
-  [Mariami Makhniashvili](<link href="https://fantastic-liger-ba6802.netlify.app/" >)
-}
+
+Mariami Makhniashvili (<link href="https://fantastic-liger-ba6802.netlify.app/" >)
+
+
