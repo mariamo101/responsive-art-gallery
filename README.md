@@ -11,7 +11,6 @@ This is a solution to the [Art gallery website challenge on Frontend Mentor](htt
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -29,11 +28,11 @@ This is a solution to the [Art gallery website challenge on Frontend Mentor](htt
 
   <img width="775" alt="Screenshot 2023-02-12 at 02 15 39" src="https://user-images.githubusercontent.com/117212859/218287956-6fffc789-74b7-4d40-80a5-bb4a8cbca55b.png">
 
-### Link
-  <link href="https://fantastic-liger-ba6802.netlify.app/" >
   
 ## My process
  My process is going slowly but fruitfully. I gain new experience in the process of solving problems.
+ 
+ <link href="https://fantastic-liger-ba6802.netlify.app/" >
 
 ### Built with
 
